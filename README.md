@@ -1,1 +1,1 @@
-# Price_Range_Slider
+# Price_Range_Slider_Using_JS_HTML_CSS
